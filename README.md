@@ -11,4 +11,8 @@ Beware! It is pretty scuffed. Blueprints aren't the cleanest, and folder structu
 
 ### If you see any warnings about plugins, you can ignore them because the game's mechanics dont rely on a third party plugin.
 
+## Thanks to:
+ - MuYe (subscribe to him he's a nice guy) for letting me use his pictures for the cubes to crash into. https://www.youtube.com/@MuYe
+ - exr_879 for muye 3d models. Check his channel out: https://www.youtube.com/channel/UCmH5AHB4nyIxZTiOD3VhZrQ
+
 ### Unreal engine 5.2
